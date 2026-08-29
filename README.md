@@ -23,17 +23,17 @@
 
 ### 💻 My Top Projects
 
-| 🚀 Project | 💻 Tech | ⭐ |
-|:---|:---:|:---:|
-| [Medical Provider Node](https://github.com/keertheeswaran/med-provider-node) | `Node.js` `Express` | 2 |
-| [Medical Provider React](https://github.com/keertheeswaran/med-provider-react) | `React` `CSS` | 1 |
-| [Awesome Project 2](https://github.com/keertheeswaran/project) | `HTML` `CSS` `JS` | 5 |
-| [Awesome Project 3](https://github.com/keertheeswaran/project3) | `TypeScript` | 3 |
-| [Awesome Project 4](https://github.com/keertheeswaran/project4) | `Python` | 1 |
+| 🚀 Project                                                                       |               💻 Tech               | ⭐  |
+| :------------------------------------------------------------------------------- | :---------------------------------: | :-: |
+| [K-Pickel ](https://github.com/keertheeswaran/K-Pickel)                          |       `React` `CSS` `Node.js`       |  2  |
+| [K-LuxeVault ](https://github.com/keertheeswaran/K-LuxeVault)                    |       `React` `CSS` `Node.js`       |  1  |
+| [THAMEEM-WELFARE-TRUST](https://github.com/keertheeswaran/THAMEEM-WELFARE-TRUST) |       `React` `CSS` `Node.js`       |  5  |
+| [Route66](https://github.com/keertheeswaran/Route66-Cars)                        | `React` `CSS` `Node.js``TypeScript` |  3  |
+| [K-E-com](https://github.com/keertheeswaran/K-E-com)                             | `React` `CSS` `Node.js``TypeScript` |  1  |
 
 <br/>
 
-> 💡 *"Building scalable applications, one line at a time."*
+> 💡 _"Building scalable applications, one line at a time."_
 
 </td>
 </tr>
