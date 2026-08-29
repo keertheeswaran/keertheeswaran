@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./keertheeswaran-banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./keertheeswaran-banner.svg?v=1">
-  <img src="./keertheeswaran-banner.svg?v=1" alt="Keertheeswaran — Developer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./keertheeswaran-banner.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="./keertheeswaran-banner.svg?v=2">
+  <img src="./keertheeswaran-banner.svg?v=2" alt="Keertheeswaran — Full Stack Developer" width="100%"/>
 </picture>
 
 </div>
@@ -16,7 +16,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (Custom SVG) -->
-<img src="./keertheeswaran-lanyard.svg?v=1" alt="Keertheeswaran ID badge" width="330"/>
+<img src="./keertheeswaran-lanyard.svg?v=2" alt="Keertheeswaran ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">
@@ -33,7 +33,7 @@
 
 <br/>
 
-> 💡 *"Coding the future, one line at a time."*
+> 💡 *"Building scalable applications, one line at a time."*
 
 </td>
 </tr>
@@ -46,32 +46,31 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keertheeswaran&theme=radical&hide_border=true&background=14091e" alt="keertheeswaran's GitHub streak" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keertheeswaran&layout=compact&theme=radical&hide_border=true&background=14091e" alt="Top Languages" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keertheeswaran&theme=tokyonight&hide_border=true&background=0f172a" alt="keertheeswaran's GitHub streak" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keertheeswaran&layout=compact&theme=tokyonight&hide_border=true&background=0f172a" alt="Top Languages" height="195"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keertheeswaran&theme=radical" alt="keertheeswaran's GitHub Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keertheeswaran&theme=tokyonight" alt="keertheeswaran's GitHub Details" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,js,ts,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,git,github,vscode" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keertheeswaran&bg_color=14091e&color=ff82f5&line=9f34eb&point=ff82f5&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keertheeswaran&bg_color=0f172a&color=38bdf8&line=3b82f6&point=38bdf8&area=true&hide_border=true" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
   <p>🤝 Let's Connect</p>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/EMAIL-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/keertheeswaran"><img src="https://img.shields.io/badge/GITHUB-8a2be2?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-ff00ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/YOUTUBE-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:keertheeswaran.professional@gmail.com"><img src="https://img.shields.io/badge/EMAIL-38bdf8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/keertheeswaran"><img src="https://img.shields.io/badge/GITHUB-3b82f6?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
